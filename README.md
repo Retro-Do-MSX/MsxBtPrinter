@@ -55,5 +55,5 @@ MSX Bluetooth Printerシールド
 <img src="pictures/PcbImage.png" width="500px">  
 
 ## 製作例
-<img src="pictures/sample1.jpg" width="500px">  
-<img src="pictures/sample2.jpg" width="500px">  
+<img src="pictures/sample1.JPG" width="500px">  
+<img src="pictures/sample2.JPG" width="500px">  
