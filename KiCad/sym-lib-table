@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32deiino")(type "KiCad")(uri "${KIPRJMOD}/ESP32deiino.kicad_sym")(options "")(descr ""))
+)
